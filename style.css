@@ -269,7 +269,9 @@ a:hover {
   font-size: 1.1rem;
   transition: transform .8s var(--ease)
 }
-
+.obj{
+  object-fit: cover;
+}
 .navbar-brand:hover .brand-mark {
   transform: rotate(360deg)
 }
